@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -51,7 +50,7 @@
 </head>
 <body>
   <h1>🗓️ My Availability</h1>
-  <p>If a date shows as <strong>Busy</strong>, I’m already booked!</p>
+  <p>If a date shows as <strong>BOOKED</strong>, I’m unfortunately full for <strong>dogsitting</strong> slots, but still may be available for <strong>dogwalks</strong> or <strong>drop ins</strong>! Please contact me directly to make any booking - Thank you! ☺️</p>
 
   <div class="calendar-wrapper">
     <iframe 
