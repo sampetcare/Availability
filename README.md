@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Availability</title>
+  <title>Sam Pet Care</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
     body {
@@ -35,7 +35,7 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
       border-radius: 10px;
       padding: 20px;
-      max-width: 900px;
+      max-width: 1000px;
       width: 90%;
       margin-bottom: 40px;
     }
@@ -50,7 +50,7 @@
 </head>
 <body>
   <h1>🗓️ My Availability</h1>
-  <p>If a date shows as <strong>BOOKED</strong>, I’m unfortunately full for <strong>dogsitting</strong> slots, but still may be available for <strong>dogwalks</strong> or <strong>drop ins</strong>! Please contact me directly to make any booking - Thank you! ☺️</p>
+  <p>If a date shows as <strong>BOOKED</strong>, I’m unfortunately full for <strong>dogsitting</strong> slots, but still may be available for <strong>dogwalks</strong> or <strong>drop ins</strong>! Please contact me directly to make any bookings - Thank you! ☺️</p>
 
   <div class="calendar-wrapper">
     <iframe 
